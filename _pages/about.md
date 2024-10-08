@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Hi! I’m Chuanhao Sun, a Postdoc Researcher at the University of Edinburgh, School of Informatics ([ICSA](https://web.inf.ed.ac.uk/icsa)), where I received my PhD degree (Issued at July 2024). 
+Hi! I’m Chuanhao Sun, a Postdoc Researcher at the University of Edinburgh, School of Informatics ([ICSA](https://web.inf.ed.ac.uk/icsa)), where I received my PhD degree (July 2024). 
 
 My research bridges both **network systems** and **machine learning**. In network systems, my focus is primarily on edge computing, mobile networks, and ISP networks. In machine learning, I tackle cutting-edge challenges in areas such as time series analysis, image processing, and 3D rendering. My work has been published at leading conferences in both domains, including ACM MobiCom and ACM CoNEXT for network systems, and ICML for machine learning. I'm passionate about using machine learning to address system-level challenges (AI4System) and to optimizing systems for enhanced AI training and inference (System4AI).
 
