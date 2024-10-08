@@ -7,3 +7,4 @@ Contact information is below, including email and various web services.  This i
 
 * E-mail: chuanhao.sun [at] ed.ac.uk
 * Google Scholar: [author-chuanhao-sun](https://scholar.google.com/citations?hl=zh-CN&user=jq80YX8AAAAJ&view_op=list_works&sortby=pubdate)
+* Office Address: Informatics Forum, 10 Crichton Street, Edinburgh, EH8 9AB
