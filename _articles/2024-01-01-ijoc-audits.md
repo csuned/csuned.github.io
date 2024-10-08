@@ -1,10 +1,10 @@
 ---
-title: "Making Algorithms Public: Reimagining Auditing From Matters of Fact to Matters of Concern"
-category: articles
-permalink: /articles/2024-01-01
-excerpt: "Stakeholders concerned with bias, discrimination, and fairness in algorithmic systems are increasingly turning to audits, which typically apply generalizable methods and formal standards to investigate opaque systems. We discuss four attempts to audit algorithmic systems with varying levels of success—depending on the scope of both the system to be audited and the audit’s success criteria. Such scoping is contestable, negotiable, and political, linked to dominant institutions and movements to change them. Algorithmic auditing is typically envisioned as settling “matters-of-fact” about how opaque algorithmic systems behave: definitive declarations that (de)certify a system. However, there is little consensus about the decisions to be automated or about the institutions automating them. We reposition algorithmic auditing as an ongoing and ever-changing practice around “matters-of-concern.” This involves building infrastructures for the public to engage in open-ended democratic understanding, contestation, and problem solving—not just about algorithms in themselves, but the institutions and power structures deploying them. Auditors must recognize their privilege in scoping to “relevant” institutional standards and concerns, especially when stakeholders seek to reform or reimagine them."
-venue: "International Journal of Communication"
-date: 2024-01-01
+title: "Learning High-Frequency Functions Made Easy with Sinusoidal Positional Encoding"
+category: Research Papers
+permalink: /articles/2024-03-05
+excerpt: "Fourier features based positional encoding (PE) is commonly used in machine learning tasks that involve learning high-frequency features from lowdimensional inputs, such as 3D view synthesis and time series regression with neural tangent kernels. Despite their effectiveness, existing PEs require manual, empirical adjustment of crucial hyperparameters, specifically the Fourier features, tailored to each unique task. Further, PEs face challenges in efficiently learning high-frequency functions, particularly in tasks with limited data. In this paper, we introduce sinusoidal PE (SPE), designed to efficiently learn adaptive frequency features closely aligned with the true underlying function. Our experiments demonstrate that SPE, without hyperparameter tuning, consistently achieves enhanced fidelity and faster training across various tasks, including 3D view synthesis, Text-toSpeech generation, and 1D regression. SPE is implemented as a direct replacement for existing PEs. Its plug-and-play nature lets numerous tasks easily adopt and benefit from SPE.." 
+venue: "ICML'24"
+date: 2024-03-05
 ---
 
-[Download the PDF here](https://ijoc.org/index.php/ijoc/article/download/20811/4455)
+[Download the PDF here](https://arxiv.org/pdf/2407.09370)
