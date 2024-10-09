@@ -1,0 +1,15 @@
+---
+layout: archive
+title: "Posts"
+permalink: /posts/
+author_profile: true
+redirect_from: 
+  - /wordpress/academic-papers/
+---
+Some Recent News
+
+{% include base_path %}
+
+{% for post in site.articles reversed %}
+  {% include archive-single.html %}
+{% endfor %}
